@@ -34,9 +34,7 @@ Follow these steps to run the project on your system:
 
 1.  **Clone this repository**
     ```bash
-    git clone https://github.com/your-username/upi-fraud-analysis.git
-    cd upi-fraud-analysis
-
+    git clone (https://github.com/parthiban-data/upi-fraud-detection-analysis.git)
 
 ## 7. 📁 Project Structure
 
