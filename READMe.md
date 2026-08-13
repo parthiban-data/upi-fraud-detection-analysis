@@ -41,9 +41,9 @@ Follow these steps to run the project on your system:
 Upi Fraud Detection&Analysis/
 │
 ├── Data
+|     ├──upi_fraud_sample.csv
 ├── clean-data.ipynb
 ├── upi-analysis.pbix
-├── cleaned_df.csv
 ├── Dashboard.png
 └── README.md
       
