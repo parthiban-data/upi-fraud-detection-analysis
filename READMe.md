@@ -35,3 +35,30 @@ Follow these steps to run the project on your system:
 1.  **Clone this repository**
     ```bash
     https://github.com/parthiban-data/upi-fraud-detection-analysis.git
+ 
+## 7. 📁 Project Structure
+
+Upi Fraud Detection&Analysis/
+│
+├── Data
+├── clean-data.ipynb
+├── upi-analysis.pbix
+├── cleaned_df.csv
+├── Dashboard.png
+└── README.md
+      
+## 👨‍💻 About Me
+**Parthiban**  
+Aspiring Data Scientist & Data Analyst | Python | Machine Learning | Streamlit
+
+📍 Thanjavur, Tamil Nadu, India
+
+Passionate about building data-driven solutions and deploying ML models into real-world applications. This project was built to strengthen my skills in EDA, Feature Engineering, and Model Deployment.
+
+[[GitHub](https://github.com/)](un-github-link-ingu-podu)
+
+If you liked this project, please give it a ⭐
+
+---
+**Made with ❤️ in India | 2026**
+
