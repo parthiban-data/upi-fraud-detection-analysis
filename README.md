@@ -55,7 +55,8 @@ Aspiring Data Scientist & Data Analyst | Python | Machine Learning | Streamlit
 
 Passionate about building data-driven solutions and deploying ML models into real-world applications. This project was built to strengthen my skills in EDA, Feature Engineering, and Model Deployment.
 
-[[GitHub](https://github.com/)](https://github.com/parthiban-data/upi-fraud-detection-analysis) 
+[[GitHub](https://github.com/)](https://github.com/parthiban-data/upi-fraud-detection-analysis)
+
 If you liked this project, please give it a ⭐
 
 ---
